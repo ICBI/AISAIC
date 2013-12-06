@@ -10,6 +10,9 @@ User manual can be obtained in this same github folder as in readme.md file.
 ####Detailed description
 Can be found here: http://vtechworks.lib.vt.edu/bitstream/handle/10919/19235/Hou_X_T_2013.pdf?sequence=1
 
+####Citation
+Please cite this paper as reference: http://bioinformatics.oxfordjournals.org/content/early/2013/11/29/bioinformatics.btt693.short?rss=1
+
 
 
 
